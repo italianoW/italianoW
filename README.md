@@ -15,12 +15,15 @@ I enjoy building software, solving problems, and figuring out how things work un
 
 ## Languages and Tools:
 <div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=5% height=5%/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=5% height=5%/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=5% height=5%/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=5% height=5%/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" width=5% height=5%/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width=5% height=5%/>
+  <a href="https://www.java.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=5% height=5%/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=5% height=5%/></a>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=5% height=5%/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=5% height=5%/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=5% height=5%/></a>
+  <a href="https://www.swi-prolog.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" width=5% height=5%/></a>
+  <a href="https://www.haskell.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width=5% height=5%/></a>
+   
+  
 </div>
 
 
