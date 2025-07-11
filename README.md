@@ -9,7 +9,7 @@ I enjoy building software, solving problems, and figuring out how things work un
   <a tag="Gmail" href="mailto:wendelitaliano2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=120px height=40px/></a>
   <a tag="Outlook" href="mailto:wendelitaliano2@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width=227px height=40px/></a>
   <a tag="Instagram" href="https://www.instagram.com/italianowendel"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width=165px height=40px/></a>
-  <a tag="LinkedIn" href="linkedin.com/in/italianow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=120px height=40px/></a>
+  <a tag="LinkedIn" href="https://linkedin.com/in/italianow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=120px height=40px/></a>
   <a tag="Codeforces" href="https://codeforces.com/profile/yurocky"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" width=170px height=40px/></a>
 </div>
 
