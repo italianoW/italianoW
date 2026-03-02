@@ -1,4 +1,4 @@
-# _italianoW_
+# _Wendel Italiano_
 
 👋 Hi! I'm Wendel Italiano
 
