@@ -16,8 +16,8 @@ I enjoy building software, solving problems, and figuring out how things work un
 ## Languages and Tools:
 <div style="display: flex; align-items: center;">
   <a tag="Java" href="https://www.java.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=35px height=35px/></a>
-  <a tag="JavaScript" href="https://github.com/italianoW"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=35px height=35px/></a>
   <a tag="Python" href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=35px height=35px/></a>
+  <a tag="JavaScript" href="https://github.com/italianoW"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=35px height=35px/></a>  
   <a tag="CSS" href="https://github.com/italianoW"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=35px height=35px/></a>
   <a tag="HTML5" href="https://github.com/italianoW"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=35px height=35px/></a>
   <a tag="Prolog" href="https://www.swi-prolog.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" width=35px height=35px/></a>
