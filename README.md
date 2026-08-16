@@ -4,6 +4,13 @@
 
 I'm a Computer Science student at **UFCG (Federal University of Campina Grande)**, Brazil.  
 Currently exploring software engineering and machine learning, with a focus on building things and learning how they work under the hood.
+
+<div style="display: flex; align-items: center;">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=italianoW&theme=radical" width="48%"/>
+
+</div>
+
 ##  Reach me at:
 <div style="display: flex; align-items: center;">
   <a tag="Gmail" href="mailto:wendelitaliano2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=120px height=40px/></a>
@@ -19,9 +26,7 @@ Currently exploring software engineering and machine learning, with a focus on b
 <div style="display: flex; align-items: center;">
   <a tag="Java" href="https://www.java.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=35px height=35px/></a>
   <a tag="Python" href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=35px height=35px/></a>
-  <a tag="JavaScript" href="https://github.com/italianoW"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=35px height=35px/></a>  
-  <a tag="Prolog" href="https://www.swi-prolog.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" width=35px height=35px/></a>
-  <a tag="Haskell" href="https://www.haskell.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width=35px height=35px/></a>
+  <a tag="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=35px height=35px/></a>  
 </div>
 
 ### Backend
