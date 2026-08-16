@@ -3,7 +3,7 @@
 👋 Hi! I'm Wendel Italiano
 
 I'm a Computer Science student at **UFCG (Federal University of Campina Grande)**, Brazil.  
-I enjoy building software, solving problems, and figuring out how things work under the hood.
+Learning everyday to eventually become a big name on the machine learning scenery.
 ##  Reach me at:
 <div style="display: flex; align-items: center;">
   <a tag="Gmail" href="mailto:wendelitaliano2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=120px height=40px/></a>
