@@ -14,16 +14,27 @@ Currently exploring software engineering and machine learning, with a focus on b
 </div>
 
 ## Languages and Tools:
+
+### Languages
 <div style="display: flex; align-items: center;">
   <a tag="Java" href="https://www.java.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=35px height=35px/></a>
-  <a tag="Spring" href="https://spring.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" width=35px height=35px/></a>
-  <a tag="SpringBoot" href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width=35px height=35px/></a>
   <a tag="Python" href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=35px height=35px/></a>
   <a tag="JavaScript" href="https://github.com/italianoW"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=35px height=35px/></a>  
-  <a tag="CSS" href="https://github.com/italianoW"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=35px height=35px/></a>
-  <a tag="HTML5" href="https://github.com/italianoW"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=35px height=35px/></a>
   <a tag="Prolog" href="https://www.swi-prolog.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" width=35px height=35px/></a>
   <a tag="Haskell" href="https://www.haskell.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width=35px height=35px/></a>
+</div>
+
+### Backend
+<div style="display: flex; align-items: center;">
+  <a tag="Spring" href="https://spring.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" width=35px height=35px/></a>
+  <a tag="SpringBoot" href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width=35px height=35px/></a>
+</div>
+
+### ML / AI
+<div style="display: flex; align-items: center;">
+  <a tag="PyTorch" href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png" width=35px height=35px/></a>
+  <a tag="TensorFlow" href="https://www.tensorflow.org/?hl=pt-br"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" width=35px height=35px/></a>
+  <a tag="LangChain" href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" width=35px height=35px/></a>
 </div>
 
 
