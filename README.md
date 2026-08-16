@@ -5,11 +5,7 @@
 I'm a Computer Science student at **UFCG (Federal University of Campina Grande)**, Brazil.  
 Currently exploring software engineering and machine learning, with a focus on building things and learning how they work under the hood.
 
-<div style="display: flex; align-items: center;">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=italianoW&theme=radical" width="48%"/>
-
-</div>
 
 ##  Reach me at:
 <div style="display: flex; align-items: center;">
