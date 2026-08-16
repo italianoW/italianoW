@@ -16,6 +16,8 @@ Learning everyday to eventually become a big name on the machine learning scener
 ## Languages and Tools:
 <div style="display: flex; align-items: center;">
   <a tag="Java" href="https://www.java.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=35px height=35px/></a>
+  <a tag="Spring" href="https://github.com/italianoW"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" width=35px height=35px/></a>
+  <a tag="SpringBoot" href="https://github.com/italianoW"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width=35px height=35px/></a>
   <a tag="Python" href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=35px height=35px/></a>
   <a tag="JavaScript" href="https://github.com/italianoW"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=35px height=35px/></a>  
   <a tag="CSS" href="https://github.com/italianoW"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=35px height=35px/></a>
