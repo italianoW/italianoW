@@ -8,15 +8,17 @@ Currently exploring software engineering and machine learning, with a focus on b
   &nbsp;&nbsp;
   <a tag="Gmail" href="mailto:wendelitaliano2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=120px height=40px /></a>
   <a tag="Outlook" href="mailto:wendelitaliano2@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width=227px height=40px/></a>
-  <a tag="LeetCode" href=""><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge" width=165px height=40px/></a>
+  <a tag="LeetCode" href="https://leetcode.com/u/italianoW/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge" width=165px height=40px/></a>
   <a tag="LinkedIn" href="https://linkedin.com/in/italianow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=120px height=40px/></a>
   <a tag="Codeforces" href="https://codeforces.com/profile/yurocky"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" width=170px height=40px/></a>
 
 
 ## Tools
+<a href="">
 <img align="right"
-     width="320"
-     src="https://raw.githubusercontent.com/italianoW/teste/main/assets/graph.gif">
+  width="320"
+  src="https://raw.githubusercontent.com/italianoW/teste/main/assets/graph.gif">
+</a>
 
 ### Languages
 <div>
@@ -29,9 +31,9 @@ Currently exploring software engineering and machine learning, with a focus on b
 <div>
   <a tag="Spring" href="https://spring.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" width=35px height=35px/></a>
   <a tag="SpringBoot" href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width=35px height=35px/></a>
-  <a tag="Docker" href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=35px height=35px/></a>
-  <a tag="Cassandra" href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" width=35px height=35px/></a>
-  <a tag="Liquibase" href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg" width=35px height=35px/></a>
+  <a tag="Docker" href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=35px height=35px/></a>
+  <a tag="Cassandra" href="https://cassandra.apache.org/_/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" width=35px height=35px/></a>
+  <a tag="Liquibase" href="https://www.liquibase.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg" width=35px height=35px/></a>
   
  
 </div>
