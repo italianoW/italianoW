@@ -3,7 +3,7 @@
 I'm a Computer Science student at **UFCG (Federal University of Campina Grande)**, Brazil.  
 Currently exploring software engineering and machine learning, with a focus on building things and learning how they work under the hood.
 
-## Reach me at:
+## Reach me at
 <div style="display: flex; align-items: center;">
   &nbsp;&nbsp;
   <a tag="Gmail" href="mailto:wendelitaliano2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=120px height=40px /></a>
