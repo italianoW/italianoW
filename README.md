@@ -5,7 +5,7 @@ Currently exploring software engineering and machine learning, with a focus on b
 
 ## Reach me at:
 <div style="display: flex; align-items: center;">
-  &nbsp;
+  &nbsp;&nbsp;
   <a tag="Gmail" href="mailto:wendelitaliano2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=120px height=40px /></a>
   <a tag="Outlook" href="mailto:wendelitaliano2@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width=227px height=40px/></a>
   <a tag="LeetCode" href=""><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge" width=165px height=40px/></a>
