@@ -1,43 +1,48 @@
 # _Wendel Italiano_
-
 👋 Hi! I'm Wendel Italiano
-
 I'm a Computer Science student at **UFCG (Federal University of Campina Grande)**, Brazil.  
 Currently exploring software engineering and machine learning, with a focus on building things and learning how they work under the hood.
 
-
-
-##  Reach me at:
+## Reach me at:
 <div style="display: flex; align-items: center;">
   <a tag="Gmail" href="mailto:wendelitaliano2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=120px height=40px/></a>
   <a tag="Outlook" href="mailto:wendelitaliano2@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width=227px height=40px/></a>
   <a tag="Instagram" href="https://www.instagram.com/italianowendel"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width=165px height=40px/></a>
   <a tag="LinkedIn" href="https://linkedin.com/in/italianow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=120px height=40px/></a>
   <a tag="Codeforces" href="https://codeforces.com/profile/yurocky"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" width=170px height=40px/></a>
-</div>
 
-## Languages and Tools:
+## Languages and Tools
+
+</div><table style="width: 100%;">
+<tr>
+<td style="width: 50%; vertical-align: top;">
 
 ### Languages
-<div style="display: flex; align-items: center;">
-  <a tag="Java" href="https://www.java.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=35px height=35px/></a>
+<div>
+  <a tag="Java" href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=35px height=35px/></a>
   <a tag="Python" href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=35px height=35px/></a>
-  <a tag="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=35px height=35px/></a>  
+  <a tag="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=35px height=35px/></a>
 </div>
 
 ### Backend
-<div style="display: flex; align-items: center;">
+<div>
   <a tag="Spring" href="https://spring.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" width=35px height=35px/></a>
   <a tag="SpringBoot" href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width=35px height=35px/></a>
 </div>
 
 ### ML / AI
-<div style="display: flex; align-items: center;">
+<div>
   <a tag="PyTorch" href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png" width=35px height=35px/></a>
   <a tag="TensorFlow" href="https://www.tensorflow.org/?hl=pt-br"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" width=35px height=35px/></a>
   <a tag="LangChain" href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" width=35px height=35px/></a>
 </div>
 
+</td>
 
-##
+<td style="width: 50%; vertical-align: top;">
 
+<img src="https://raw.githubusercontent.com/italianoW/teste/main/assets/graph.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
