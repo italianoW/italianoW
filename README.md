@@ -17,7 +17,7 @@ Currently exploring software engineering and machine learning, with a focus on b
 <a href="">
 <img align="right"
   width="320"
-  src="https://raw.githubusercontent.com/italianoW/teste/main/assets/graph.gif">
+  src="https://raw.githubusercontent.com/italianoW/italianoW/main/assets/graph.gif">
 </a>
 
 ### Languages
