@@ -1,7 +1,7 @@
 # _Wendel Italiano_
 👋 Hi! I'm Wendel Italiano
 I'm a Computer Science student at **UFCG (Federal University of Campina Grande)**, Brazil.  
-Currently exploring software engineering and machine learning, with a focus on building things and learning how they work under the hood.
+I'm working with mobile development, database and backend at the moment.
 
 ## Reach me at
 <div style="display: flex; align-items: center;">
